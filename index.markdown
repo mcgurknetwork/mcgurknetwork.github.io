@@ -1,8 +1,8 @@
 ---
 layout: home
+title:  "Welcome to The McGurk Network!"
 ---
 
-# Welcome to The McGurk Network!
 AKA my (soon-to-be) Extravagant Portfolio Site™
 
 Currently it's a work in progress, if you're reading this piece of impeccable markdown instead of blank HTML then good, I'm still learning jekyll and deploying stuff right now, so give me a moment or three to get things up and running.
