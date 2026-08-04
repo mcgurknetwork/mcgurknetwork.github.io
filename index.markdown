@@ -1,15 +1,18 @@
 ---
-layout: home
-title:  "Welcome to The McGurk Network!"
+layout: landing
 ---
 
-AKA my (soon-to-be) Extravagant Portfolio Site™
+# You've Reached the Portfolio of Michael McGurk!
+## Full Sail University '25 Graduate, B.S. Game Development
+## Computer Programmer, Developer, Video Editor, Engineer
 
-Currently it's a work in progress, if you're reading this piece of impeccable markdown instead of blank HTML then good, I'm still learning jekyll and deploying stuff right now, so give me a moment or three to get things up and running.
+The site is a work in progress, if you're reading this piece of impeccable markdown instead of blank HTML then good, I'm still learning jekyll and deploying stuff right now, so give me a moment or three to get things up and running!
 
 # About me
-For the uninitiated, my name is Michael McGurk. I love programming and video editing on the side, and my main goal is to keep progressing as a technical creative to make the best experiences for myself and others to enjoy! 
+I love programming and video editing on the side, and my main goal is to keep progressing as a technical creative to make the best experiences for myself and others to enjoy! 
 I'm mainly a game programmer versed in C++ and the like, so all this web stuff is a tad new to me, that said I promise that I'm working on it...
+
+I'm open to work and lend my skills, to projects both creative and technical in nature. I'm always eager to learn new things and diversify my technical expertise.
 
 Generative AI is cool in theory but seldom ethically sourced or even used properly. The main thing I enjoy is programming the AI of video game characters, and YOU try explaining the difference to mom!
 
